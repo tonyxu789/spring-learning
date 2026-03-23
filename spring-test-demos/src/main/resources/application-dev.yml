@@ -21,3 +21,7 @@ spring:
         server-addr: 127.0.0.1:8848
         group: DEFAULT_GROUP
 
+logging:
+  level:
+    root: ERROR
+    com.xhc.spring: DEBUG
