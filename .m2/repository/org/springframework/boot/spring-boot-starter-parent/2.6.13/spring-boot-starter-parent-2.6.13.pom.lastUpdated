@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 21 00:32:47 CST 2026
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1774024367028
+@default-aliyun-public-https\://maven.aliyun.com/repository/public/.lastUpdated=1774024168406
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.6.13 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.6.13/spring-boot-starter-parent-2.6.13.pom
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.6.13 from/to aliyun-public (https\://maven.aliyun.com/repository/public)\: Transfer failed for https\://maven.aliyun.com/repository/public/org/springframework/boot/spring-boot-starter-parent/2.6.13/spring-boot-starter-parent-2.6.13.pom
