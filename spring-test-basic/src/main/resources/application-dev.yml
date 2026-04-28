@@ -11,7 +11,7 @@ spring:
 
   config:
     import:
-      - optional:nacos:spring-test-demos.yml
+      - optional:nacos:spring-test-basic.yml
 
   cloud:
     nacos:

@@ -21,6 +21,7 @@
 
 <modules>
     <module>spring-test-demos</module>
+    <module>spring-test-basic</module>
 </modules>
 
 <properties>
